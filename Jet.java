@@ -20,6 +20,7 @@ public class Jet extends Airplane {
     * So here, this calls the constructor of Airplane, Jet's superclass.
     */
     public Jet() {
+        super();
     }
 
     /**
